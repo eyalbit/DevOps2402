@@ -15,8 +15,6 @@ print(n + str(f))
 h = "aviel \n buskila"
 g = "aviel \rbuskila"
 print(h)
-print(n)
-print(i)
-print(g)
+
 
 
